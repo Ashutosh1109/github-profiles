@@ -1,9 +1,10 @@
+Internship_Assignment
 # github-profiles
-Lists all the profiles of users in Bangalore, and you can search by their name also
-Type the name you want to search to search by name.
+Lists all the profiles of users in Bangalore, and you can search by their name also.
+Just type the name you want to search.
 To switch to another page pagination is also implemented.
 
-Internship_Assignment
+
 
 Quick Start
 # Install dependencies 
